@@ -27,7 +27,7 @@
     "lodash.isfunction": "^3.0.8",
     "webpack": "^3.10.0",
     "webpack-dev-middleware": "^2.0.1",
-    "webpack-hot-middleware": "^2.21.0"
+    "webpack-hot-client": "git://github.com/webpack-contrib/webpack-hot-client.git#babel-client-dist"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.37",
